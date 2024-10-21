@@ -1,2 +1,2 @@
 # About
-Simple REST project with service and client using Spring Framework. Sensor (client) makes measurements and posts it on the server.
+Simple REST project with service and client using Spring Framework. A sensor (client) takes measurements and posts them to the server, where they are saved in a database
